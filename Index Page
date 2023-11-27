@@ -1,47 +1,59 @@
 <!DOCTYPE html>
 <html>
+<head>
 <title>Pastimes</title>
 <!--CSS file link add this-->
 </head>
 <body>
-<header>
-    <!--Pastimes Senior Capstone 2023-->
-</header>
+<header><h1>Pastimes Senior Capstone 2023</h1></header>
+
 <nav>
- <!--horizontal nav bar-->
-
+<li><a href="#">About</li>
+<li><a href="#">UX Work</li>
+<li><a href="#">Contact</li>
 </nav>
-<main id="Portfolio Senior Capstone"
-<!-- all main content goes here-->
-<p>Problem Solving
-    People of all ages need to experience socialization and leisure 
+<main id="Portfolio Senior Capstone">
+    <img src=“ Homepage.png” alt=“ Pastimes Homepage” height= “200” width=“400”>
+<p> The Problem: People of all ages need to experience socialization and leisure <br>
     with others in ways that match their schedules, mood, energy and interests 
-    because it positively impacts their quality of life and bonding/relationships</p></strong>
+    because it positively impacts their quality of life and bonding/relationships</p>
+<p>The Solution: An app that helps users find leisure 
+    activities. It includes a leisure
+    generator for activity ideas.
+    Users can buy kits for their 
+    activities or explore other interests.
+     The app also offers mini-games to
+     play with friends or challenging 
+    others users on Pastime.</p>
+<p>Steps to completion: Research, Ideation, Prototyping and Design.<Br>
+The original desire to create a project such as this was figuring how to bond various individuals.
+ I went through four various research methods such as user interviews,Fly-on-the-wall observation, unmoderated diary,
+ and a survey on individual's gaming habits and physical creations. I was able to gain enough insight 
+ from my data to lead me into understanding while people want to bond, it is heavily dependent on schedules, mood, energy and interests.</p>
 
-
-<p>Explain Capstone</p></strong>
-
-
-
-<ul>Drawing
-    Painting
-    Photography
-    Video gaming
-    Soccer
-    Working out
+ <h2>Idea List<h2>
+<ul>
+    <li>Arts + Crafts</li>
+    <li>Recreation</li>
+    <li>Culinary</li>
+    <li>Exercising</li>
+    <li>Entertainment</li>
+    <li>Gaming</li>
+    <li>Relaxation</li>
+    <li>Learning</li>
+    <li>Reading</li>
+    <li>Socializing</li>
+    <li>Photography</li>
+    <li>Travel</li>
 </ul>
 
 To hyperlink
 https://xd.adobe.com/view/c13e7824-f254-4854-ae6d-3289c1ea9935-946d/?fullscreen&hints=off
-
-
-
-
-        <ol>
-            Leisure Generator
-            Activity Kits
-            Mini Games
-        </ol>
+<h2>Functions of appt<h2></h2>
+ <ol><li>Leisure Generator</li>
+ <li>Activity Kit</li>
+ <li>Mini Games</li>
+</ol>
 
 
         need hyperlink: link XD file after progress tomorrow.
@@ -55,7 +67,7 @@ https://xd.adobe.com/view/c13e7824-f254-4854-ae6d-3289c1ea9935-946d/?fullscreen&
 </main>
 
 <footer>
-   <!--copyright here-->  
+ <h2>Copyright 2023 by Haley Spinale &copy;</h2> 
 </footer>
 
 

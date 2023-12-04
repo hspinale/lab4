@@ -1,7 +1,7 @@
 h1 {color:purple;
     font-size: 5vw;
     text-align:center;
-    width:80%;
+    width:100%;
     }
   h2 {color:purple;
     font-size: 3vw;
@@ -12,19 +12,19 @@ h1 {color:purple;
     color:black;
     font-size: 3vw;
     text-align:center;
-    width:80%;
+    width:100%;
     }
   h3 {color:purple;
     font-size: 3vw;
     text-align:center;
-    width:80%;
+    width:100%;
     }
   li{list-style-type:none;
   display:inline;
   padding-left:3vw;
   padding-right:3vw;
   font-size:3vw;
-  width:80%;
+  width:100%;
   
   }
   ul{ text-align:center;
@@ -33,7 +33,7 @@ h1 {color:purple;
   padding-right:3vw;
   padding-top:3vw;
   padding-bottom:3vw;
-  width:80%;}
+  width:100%;}
   
   a{color:white;
   text-decoration:none;
@@ -41,12 +41,12 @@ h1 {color:purple;
   #idea-list li{
     display:block;
     color: white;
-    width:80%;
+    width:100%;
   }
   p{
   color:black;
   text-align:left;
-  width:80%
+  width:100%
   }
   ol{ text-align:center;
   background-color:blue;
@@ -54,10 +54,10 @@ h1 {color:purple;
   padding-right:3vw;
   padding-top:3vw;
   padding-bottom:3vw;
-  width:80%;}
+  width:100%;}
   #functions li{display:block;
   }
-  body {font-family:purple;
+  body {font-family:Helvetica;
     font-size: 3vw;
-    width:80%
+    width:100%
     text-align:left;}
